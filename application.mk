@@ -17,7 +17,7 @@ LORAMAC   ?= $(shell pwd)/../LoRaMac-node
 # Specify the location of the board support package to be used.
 #
 #******************************************************************************
-BSP_DIR := $(NM_SDK)/bsp/nm180100EVB
+BSP_DIR := $(NM_SDK)/bsp/nm180100evb
 
 #******************************************************************************
 #
